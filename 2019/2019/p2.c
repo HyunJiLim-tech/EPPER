@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() { //2¹ø
+int main() { 
 	int m, n, remain;
 	int money_cnt = 0, tot_cnt = 0;
 

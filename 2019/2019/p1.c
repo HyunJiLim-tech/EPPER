@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() { //1¹ø
+int main() { 
 	int n, sum = 0;
 	int arr[100];
 

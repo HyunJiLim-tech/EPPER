@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() { //4¹ø
+int main() { 
 	int n;
 	int arr[100];
 
