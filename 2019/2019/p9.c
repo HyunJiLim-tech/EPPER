@@ -8,7 +8,11 @@ void find_max(int num) {
 	
 }
 
+<<<<<<< Updated upstream
 int main() {
+=======
+int main() { //9¹ø
+>>>>>>> Stashed changes
 	int n;
 
 	scanf("%d", &n);
