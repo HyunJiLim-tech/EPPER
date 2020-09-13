@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main() { //8¹ø
+int main() {
 	char input, none;
 	int m;
 	int num[2];

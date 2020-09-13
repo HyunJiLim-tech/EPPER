@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() { //6¹ø
+int main() { 
 	int arr[3];
 	int k, cnt = 0;
 

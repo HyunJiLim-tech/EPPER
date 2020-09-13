@@ -21,7 +21,7 @@ void pal(int start, int end) {
 	}
 }
 
-int main() { //7¹ø
+int main() { 
 	int n;
 
 	scanf("%d", &n);

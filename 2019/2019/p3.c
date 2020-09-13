@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() { //3¹ø
+int main() {
 	int n;
 
 	scanf_s("%d", &n);

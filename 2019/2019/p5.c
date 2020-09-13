@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main() { //5¹ø
+int main() { 
 	char input;
 	int y[2], m[2], d[2];
 	int index = 0, back;
