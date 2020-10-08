@@ -6,7 +6,7 @@ int main() {
 	int C, M, remain, sum = 0;
 
 	scanf("%d %d", &C, &M);
-	remain = C - M; //°Å½º¸§µ·
+	remain = C - M; //ê±°ìŠ¤ë¦„ëˆ
 	for (int i = 0; i < 6 && remain != 0; i++) {
 		if (remain >= coins[i]) {
 			sum += remain / coins[i];
