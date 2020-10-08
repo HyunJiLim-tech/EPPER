@@ -7,7 +7,7 @@ int main() {
 	scanf("%d", &n);
 	int empty = n / 2;
 	int star = 1;
-	for (int i = 0; i <= (n / 2); i++) { //À§ Àý¹Ý + °¡¿îµ¥
+	for (int i = 0; i <= (n / 2); i++) { //ìœ„ì˜ ì ˆë°˜ + ê°€ìš´ë°
 		for (int j = 0; j < empty; j++)
 			printf(" ");
 		for (int j = 0; j < star; j++)
@@ -18,7 +18,7 @@ int main() {
 	}
 	empty += 2;
 	star -= 4;
-	for (int i = 0; i < (n / 2); i++) { //¾Æ·¡ Àý¹Ý
+	for (int i = 0; i < (n / 2); i++) { //ì•„ëž˜ ì ˆë°˜
 		for (int j = 0; j < empty; j++)
 			printf(" ");
 		for (int j = 0; j < star; j++)
