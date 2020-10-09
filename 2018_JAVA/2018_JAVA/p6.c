@@ -28,7 +28,7 @@ int main() {
 	int d_length = strlen(dest);
 	sort_arr(source, s_length);
 	sort_arr(dest, d_length);
-	if (strcmp(source, dest) == 0) //Á¤·ÄÇØ¼­ °°ÀºÁö È®ÀÎ
+	if (strcmp(source, dest) == 0) //ë¬¸ìì—´ ì¼ì¹˜í•˜ëŠ”ì§€ í™•ì¸
 		printf("Yes\n");
 	else
 		printf("No\n");
