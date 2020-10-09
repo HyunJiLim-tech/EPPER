@@ -18,7 +18,7 @@ int main() {
 		for (int j = 0; j <= i; j++)
 			scanf("%d", &matrix[i][j]);
 	}
-	for (int i = N - 2; i >= 0; i--) { //╬ф╥║╨нем ╟е╫╫╥╞ ©ц╤С╟╗
+	for (int i = N - 2; i >= 0; i--) { //Л∙└К·≤К╤─М└╟ Л°└К║° Л≤╛К²╪Й╟░
 		for (int j = 0; j <= i; j++) {
 			matrix[i][j] = matrix[i][j] + max(matrix[i + 1][j], matrix[i + 1][j + 1]);
 		}
